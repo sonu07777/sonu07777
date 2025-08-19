@@ -1,5 +1,5 @@
-                                                # 💫 About Me:
-                                            I am a full stack devloper
+# 💫 About Me:
+I am a full stack devloper
 
                                       
 ## 🌐 Socials:
